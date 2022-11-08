@@ -14,4 +14,4 @@ Users folder & file structure:
     * 📄 github_today.json
 
 
-![](https://github.com/afif-dev/github-user-cli/blob/main/github-user-cli-ss.png)
+![](github-user-cli-ss.png)
